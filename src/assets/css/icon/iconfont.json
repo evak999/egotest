@@ -1,0 +1,114 @@
+{
+  "id": "2758224",
+  "name": "ego",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "642067",
+      "name": "manage",
+      "font_class": "hetongguanli",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "932632",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "1263402",
+      "name": "icon_email",
+      "font_class": "youxiang",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1625002",
+      "name": "icon_quit",
+      "font_class": "icon_quit",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "5127390",
+      "name": "left-indent",
+      "font_class": "left-indent",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "5127490",
+      "name": "right-indent",
+      "font_class": "right-indent",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "8080103",
+      "name": "icon_nav",
+      "font_class": "icon_nav",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "15167662",
+      "name": "user",
+      "font_class": "user_1",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "16513280",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "17066673",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "17411760",
+      "name": "Add Circle",
+      "font_class": "AddCircle",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "18311262",
+      "name": "删 除",
+      "font_class": "shanchu1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "19989560",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "ea43",
+      "unicode_decimal": 59971
+    },
+    {
+      "icon_id": "21703162",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "23223815",
+      "name": "icon_Product display",
+      "font_class": "a-icon_Productdisplay",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}

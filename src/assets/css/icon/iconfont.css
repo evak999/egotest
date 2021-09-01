@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2758224 */
+  src: url('iconfont.woff2?t=1629443449092') format('woff2'),
+       url('iconfont.woff?t=1629443449092') format('woff'),
+       url('iconfont.ttf?t=1629443449092') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hetongguanli:before {
+  content: "\e610";
+}
+
+.icon-tianjia:before {
+  content: "\e68f";
+}
+
+.icon-youxiang:before {
+  content: "\e630";
+}
+
+.icon-icon_quit:before {
+  content: "\e6a7";
+}
+
+.icon-left-indent:before {
+  content: "\e7b7";
+}
+
+.icon-right-indent:before {
+  content: "\e805";
+}
+
+.icon-icon_nav:before {
+  content: "\e616";
+}
+
+.icon-user_1:before {
+  content: "\e659";
+}
+
+.icon-shanchu:before {
+  content: "\e66e";
+}
+
+.icon-tuichu:before {
+  content: "\e634";
+}
+
+.icon-AddCircle:before {
+  content: "\e604";
+}
+
+.icon-shanchu1:before {
+  content: "\e63c";
+}
+
+.icon-service:before {
+  content: "\ea43";
+}
+
+.icon-xiugai:before {
+  content: "\e603";
+}
+
+.icon-a-icon_Productdisplay:before {
+  content: "\e629";
+}
+
